@@ -2,3 +2,5 @@
 *.iml
 *.iws
 *.exe
+*.class
+out/
